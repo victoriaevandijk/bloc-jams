@@ -50,15 +50,19 @@
  }
  
  .song-item-number {
-     width: 5%;
+     width: 10%;
  }
  
  .song-item-title {
-     width: 85%;
+     width: 65%;
  }
  
  .song-item-duration {
-     width: 5%;
+     width: 10%;
+ }
+ 
+ .song-count {
+     width: 15%;
  }
  
   @media (max-width: 640px) and (min-width: 320px) {
